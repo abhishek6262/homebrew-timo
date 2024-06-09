@@ -5,7 +5,7 @@ class Timo < Formula
   desc "Capture and search thoughts in your terminal."
   homepage "https://github.com/abhishek6262/timo"
   url "https://github.com/abhishek6262/timo/releases/download/v0.1.0/timo.tar.gz"
-  sha256 "c6f15944da3fdac8a221b3a50d17fd9bce112491a4088cf3f9d09d731ed5702f"
+  sha256 "a66e71d9a4aa573833b0b588437a3812b0a541d0182c80b213a2bef73c949e63"
   version "0.1.0"
   depends_on "rust" => :build
 
