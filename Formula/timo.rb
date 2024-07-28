@@ -6,7 +6,7 @@ class Timo < Formula
   homepage "https://github.com/abhishek6262/timo"
   url "https://github.com/abhishek6262/timo/releases/download/v0.2.1/timo.tar.gz"
   sha256 "febafb638b273f8c04b33009ce687b8106d7450c66e46cd78ec908f1d902d3b8"
-  version "0.2.0"
+  version "0.2.1"
   depends_on "rust" => :build
 
   def install
